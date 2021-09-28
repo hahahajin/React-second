@@ -1,0 +1,21 @@
+.body{
+    color: black;
+    margin-left: 30%;
+    margin-top: 3%;
+    font-size: 20px;
+}
+
+
+
+.links{
+    margin-top: 10px;
+    color: black;
+ 
+}
+.link:hover{
+    color: black;
+}
+
+.link:visited{
+    color: black;
+}

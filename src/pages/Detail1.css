@@ -1,0 +1,15 @@
+.body{
+    margin-left: 30% ;
+    margin-top: 3%;
+}
+
+.photo{
+    align-items: center;
+    width: 60%;
+    margin-bottom: 10px;
+}
+
+.photo1{
+    width: 25%;
+    vertical-align: middle;
+}
